@@ -15,7 +15,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/main/.github/images/Fountain2D.png" alt="fountain2D" width="50%" />
+<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/main/.github/images/fountain2D.png" alt="fountain2D" width="50%" />
 ➤
 <img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/main/.github/images/VisioGen.gif" alt="fountain3D" width="50%" />
 
