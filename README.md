@@ -1,11 +1,11 @@
 <h1 align="center">3d Reconstruction: VisioGen</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/.github/images/drdo.png" width="200" height="">
+<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/main/.github/images/drdo.png" width="200" height="">
 </p>
 
 ## 🗒️ Description:
-<p>In my research endeavor at IRDE, DRDO, Dehradun. I dedicated myself to advancing the processing of visual data through an innovative approach: converting 2D images into intricate 3D models. Leveraging a combination of image processing techniques with Structure From Motion Technique and libraries like:</p>
+<p>In my research endeavour at IRDE, DRDO, Dehradun. I dedicated myself to advancing the processing of visual data through an innovative approach: converting 2D images into intricate 3D models. Leveraging a combination of image processing techniques with Structure From Motion Technique and libraries like:</p>
 
 <ul><li>lightglue</li><li>OpenCV</li><li>PyTorch</li><li>SciPy</li><li>pyvista</li><li>MatplotLib</li><li>Joblib</li></ul>
 
@@ -15,13 +15,13 @@
 
 
 
-<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/.github/images/Fountain2D.png" alt="fountain2D" width="50%" />
+<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/main/.github/images/Fountain2D.png" alt="fountain2D" width="50%" />
 ➤
-<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/.github/images/VisioGen.gif" alt="fountain3D" width="50%" />
+<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/main/.github/images/VisioGen.gif" alt="fountain3D" width="50%" />
 
 
 ## 📽 Sample Demo:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RcAH8HbFBMI" title="3D VisioGen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=RcAH8HbFBMI
 
 
 ## How to Use
@@ -46,7 +46,7 @@
 
 ## 🎓 DRDO (Defence Research and Development Organisation) Internship Certificate:
 <p align="center">
-<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/.github/images/Certificate_DRDO_Lakshay.png" width="600" height="">
+<img src="https://raw.githubusercontent.com/lakshay-nasa/VisioGen/main/.github/images/Certificate_DRDO_Lakshay.png" width="600" height="">
 </p>
 
 ## 📝 Internship/ Project Final Report link:
